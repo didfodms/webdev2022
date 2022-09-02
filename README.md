@@ -1,2 +1,2 @@
 # webdev2022
-basic web develope
+basic web develope theory
