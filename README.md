@@ -1,5 +1,3 @@
-# webdev2022
----
-basic web develope theory
-
-github pages edit 10/07
+# One Day One Commit Challenge!
++ Solved Coding Problem everyday with Javascript and Java
++ Mathmatics, Stack / Queue, Dynamic Programming, ...
